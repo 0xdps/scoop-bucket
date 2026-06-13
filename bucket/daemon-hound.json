@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/0xdps/daemon-hound/releases/download/v0.1.0/daemon-hound_0.1.0_Windows_x86_64.zip",
+            "url": "https://github.com/0xdps/daemon-hound/releases/download/v0.1.1/daemon-hound_0.1.1_Windows_x86_64.zip",
             "bin": [
                 "dh.exe"
             ],
-            "hash": "e570ceb1ebff203f0c1ea591101018c148c00ebfbeb3b2be9170f01baef94868"
+            "hash": "352d0911bcde21042a55b2d14154ce98216e845a5d2ea02def897bf115c3cd0d"
         }
     },
     "homepage": "https://github.com/0xdps/daemon-hound",
