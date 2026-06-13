@@ -1,0 +1,27 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/0xdps/daemon-hound/releases/download/v0.1.0/daemon-hound_0.1.0_Windows_x86_64.zip",
+            "bin": [
+                "dh.exe"
+            ],
+            "hash": "e570ceb1ebff203f0c1ea591101018c148c00ebfbeb3b2be9170f01baef94868"
+        }
+    },
+    "homepage": "https://github.com/0xdps/daemon-hound",
+    "license": "MIT",
+    "description": "Opinionated local config and secret management for developers",
+    "persist": [
+        "data"
+    ],
+    "depends": [
+        "git"
+    ],
+    "shortcuts": [
+        [
+            "dh.exe",
+            "DaemonHound"
+        ]
+    ]
+}
