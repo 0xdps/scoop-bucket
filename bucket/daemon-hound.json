@@ -6,7 +6,7 @@
             "bin": [
                 "dhd.exe"
             ],
-            "hash": "7ef04f20dc7384c8a5c03ac4307f4a6113ab788977fa42a5155c7e26c25babf7"
+            "hash": "e9ad0251e11c1c5c402452774bd0b18ea47b36ed9694028055a48bd0cbbfd95b"
         }
     },
     "homepage": "https://github.com/0xdps/daemon-hound",
